@@ -1,1 +1,2 @@
 # Calculator-
+Pkg install python
